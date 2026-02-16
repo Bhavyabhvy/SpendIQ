@@ -1,0 +1,7 @@
+streamlit
+pandas
+matplotlib
+sqlalchemy
+bcrypt
+streamlit-aggrid
+fpdf
